@@ -1,1 +1,1 @@
-# media---generator
+# media-generator
